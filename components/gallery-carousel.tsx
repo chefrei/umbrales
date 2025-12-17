@@ -9,27 +9,27 @@ import { Card, CardContent } from "@/components/ui/card"
 // Placeholder images from public folder
 const images = [
     {
-        src: "/mysterious-door-slightly-open-with-soft-light-comi.jpg",
+        src: "/alma.png",
         alt: "ALMA",
         title: "ALMA"
     },
     {
-        src: "/book-cover-design-for-umbrales-mysterious-literary.jpg",
+        src: "/ecos_de_una_noche_antigua.jpg",
         alt: "Ecos de una noche oscura",
         title: "Ecos de una noche oscura"
     },
     {
-        src: "/mysterious-door-slightly-open-with-soft-light-comi.jpg",
+        src: "/ser_otro.png",
         alt: "Ser Otro",
         title: "Ser Otro"
     },
     {
-        src: "/book-cover-design-for-umbrales-mysterious-literary.jpg",
+        src: "/la_casa_rosada.png",
         alt: "La casa Rosada",
         title: "La casa Rosada"
     },
     {
-        src: "/mysterious-door-slightly-open-with-soft-light-comi.jpg",
+        src: "/otra_vida.png",
         alt: "Otra Vida",
         title: "Otra Vida"
     },
